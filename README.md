@@ -5,4 +5,16 @@ A modern - simplified list of the most important android libraries that make our
 
 * [Glide](https://github.com/bumptech/glide) - Glide is a fast and efficient open source media management and image loading framework for Android that wraps media decoding, memory and disk caching, and resource pooling into a simple and easy to use interface. Glide supports fetching, decoding, and displaying video stills, images, and animated GIFs. Glide includes a flexible API that allows developers to plug in to almost any network stack. By default Glide uses a custom HttpUrlConnection based stack, but also includes utility libraries plug in to Google's Volley project or Square's OkHttp library instead. Glide's primary focus is on making scrolling any kind of a list of images as smooth and fast as possible, but Glide is also effective for almost any case where you need to fetch, resize, and display a remote image.
 * [OkHttp](http://square.github.io/okhttp/) - HTTP is the way modern applications network. It’s how we exchange data & media. Doing HTTP efficiently makes your stuff load faster and saves bandwidth. OkHttp is an HTTP client that’s efficient by default.
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods. Field and method binding for Android views which uses annotation processing to generate boilerplate code for you. Eliminate findViewById calls by using @BindView on fields.
+* [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android an OK way. A superb, flawless and easy way of setting custom fonts in your Android app.
+* [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs. Realm is faster than even raw SQLite on common operations, while maintaining an extremely rich feature set.
+* [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java. Dagger 2 is a compile-time evolution approach to dependency injection. 
+* [Lottie](https://github.com/airbnb/lottie-android) - Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile!
+
+## Tools
+
+* [Vysor](https://github.com/chrisjenx/Calligraphy) - Vysor puts your Android on your Desktop.
+
+## Sites
+
+* [AndroidHive](http://www.androidhive.info/) - An awesome website full of many resourceful tutorials by Ravi Tamada
