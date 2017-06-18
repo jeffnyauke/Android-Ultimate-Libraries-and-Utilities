@@ -7,6 +7,7 @@ A modern - simplified list of the most important android libraries that make our
 * [OkHttp](http://square.github.io/okhttp/) - HTTP is the way modern applications network. It’s how we exchange data & media. Doing HTTP efficiently makes your stuff load faster and saves bandwidth. OkHttp is an HTTP client that’s efficient by default.
 * [Butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods. Field and method binding for Android views which uses annotation processing to generate boilerplate code for you. Eliminate findViewById calls by using @BindView on fields.
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android an OK way. A superb, flawless and easy way of setting custom fonts in your Android app.
+* [Retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc. Retrofit turns your HTTP API into a Java interface.
 * [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs. Realm is faster than even raw SQLite on common operations, while maintaining an extremely rich feature set.
 * [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java. Dagger 2 is a compile-time evolution approach to dependency injection. 
 * [Lottie](https://github.com/airbnb/lottie-android) - Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile!
