@@ -13,11 +13,11 @@ A modern - simplified list of the most important android libraries that make our
 * [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs. Realm is faster than even raw SQLite on common operations, while maintaining an extremely rich feature set.
 * [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java. Dagger 2 is a compile-time evolution approach to dependency injection. 
 * [Lottie](https://github.com/airbnb/lottie-android) - Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile!
-* [Alerter](https://github.com/Tapadoo/Alerter) - An Android Alerting Library. 
+* [Alerter](https://github.com/Tapadoo/Alerter) - An Android Alerting Library. This library aims to overcome the limitations of Toasts and Snackbars, while reducing the complexity of your layouts.
 
 ## Tools
 
-* [Vysor](https://github.com/chrisjenx/Calligraphy) - Vysor puts your Android on your Desktop. This library aims to overcome the limitations of Toasts and Snackbars, while reducing the complexity of your layouts.
+* [Vysor](https://github.com/chrisjenx/Calligraphy) - Vysor puts your Android on your Desktop.
 
 ## Sites
 
