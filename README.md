@@ -1,7 +1,7 @@
+![Alt text](1-mdQU_-TcsAuMb63qm0VIpQ.jpeg?raw=true "Title")
+
 # Android Ultimate Libraries and Utilities
 A modern - simplified list of the most important android libraries that make our lives easier. This project is free for anyone to contribute. It is a concise list of the best android libraries out there.
-
-![Alt text](1-mdQU_-TcsAuMb63qm0VIpQ.jpeg?raw=true "Title")
 
 ## Libraries
 
